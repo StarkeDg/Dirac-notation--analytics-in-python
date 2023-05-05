@@ -2,6 +2,4 @@
 
  Codes that help analytical exploration in quantum mechanics using python.
 
-The `init.ipynb` file has all the code used in the `00-main-vector_state-density_operator-braket_notation.ipynb` file
-
-The `00-main-vector_state-density_operator-braket_notation.ipynb` file has a good description of how to use the codes and several application examples.
+File `init.ipynb` has all the codes used in files `00-main-vector_state-density_operator-braket_notation.ipynb` and `01-quantum_ates_action-evolved_states.ipynb`.
